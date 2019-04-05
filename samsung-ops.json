@@ -1,48 +1,48 @@
 {
-  "settingsReloadIntervalMinutes": 1,
+  "settingsReloadIntervalMinutes": 5,
   "fullscreen": true,
   "autoStart": true,
   "lazyLoadTabs": true,
   "websites": [
     {
       "url": "http://swis-moni.txt.sri.ch/prod/check_mk/index.py?start_url=%2Fprod%2Fcheck_mk%2Fdashboard.py%3Fname%3DTVscreen",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
+      "duration": 45,
+      "tabReloadIntervalSeconds": 50
     },
     {
       "url": "https://app.uptrends.com/Report#",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
+      "duration": 45,
+      "tabReloadIntervalSeconds": 50
     },
     {
       "url": "https://updown.io/checks",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
+      "duration": 45,
+      "tabReloadIntervalSeconds": 50
     },
     {
       "url": "https://updown.io/ndgx",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
+      "duration": 45,
+      "tabReloadIntervalSeconds": 50
     },
     {
       "url": "https://updown.io/j4da",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
+      "duration": 45,
+      "tabReloadIntervalSeconds": 50
     },
     {
       "url": "https://app.freshping.io/org/16270/dashboard",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 300
+      "duration": 45,
+      "tabReloadIntervalSeconds": 50
     },
     {
       "url": "https://app.freshping.io/org/16270/reports?check_id=56188",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 300
+      "duration": 45,
+      "tabReloadIntervalSeconds": 50
     },
     {
       "url": "https://app.logz.io/goto/5c7f293a72399ddb8b73429e75c83549?shareToken=096d8346-0621-4666-84c9-0270fc1f3c25",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 300
+      "duration": 45,
+      "tabReloadIntervalSeconds": 50
     }
   ]
 }
