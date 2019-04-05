@@ -1,11 +1,11 @@
 {
-  "settingsReloadIntervalMinutes": 5,
+  "settingsReloadIntervalMinutes": 1,
   "fullscreen": true,
   "autoStart": true,
   "lazyLoadTabs": true,
   "websites": [
     {
-      "url": "http://swis-moni.txt.sri.ch/prod/check_mk/index.py?start_url=%2Fprod%2Fcheck_mk%2Fdashboard.py%3Fname%3DTVscreen",
+      "url": "http://swis-moni.txt.sri.ch/prod/check_mk/dashboard.py?name=TVscreen#",
       "duration": 45,
       "tabReloadIntervalSeconds": 50
     },
