@@ -10,11 +10,6 @@
       "tabReloadIntervalSeconds": 50
     },
     {
-      "url": "https://app.uptrends.com/Report#",
-      "duration": 45,
-      "tabReloadIntervalSeconds": 50
-    },
-    {
       "url": "https://updown.io/checks",
       "duration": 45,
       "tabReloadIntervalSeconds": 50
