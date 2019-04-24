@@ -15,22 +15,27 @@
       "tabReloadIntervalSeconds": 50
     },
     {
+      "url": "https://updown.io/bcrx",
+      "duration": 45,
+      "tabReloadIntervalSeconds": 50
+    },
+    {
       "url": "https://updown.io/ndgx",
       "duration": 45,
       "tabReloadIntervalSeconds": 50
     },
     {
+      "url": "https://updown.io/aetx",
+      "duration": 45,
+      "tabReloadIntervalSeconds": 50
+    },
+    {
+      "url": "https://updown.io/eucm",
+      "duration": 45,
+      "tabReloadIntervalSeconds": 50
+    },
+    {
       "url": "https://updown.io/j4da",
-      "duration": 45,
-      "tabReloadIntervalSeconds": 50
-    },
-    {
-      "url": "https://app.freshping.io/org/16270/dashboard",
-      "duration": 45,
-      "tabReloadIntervalSeconds": 50
-    },
-    {
-      "url": "https://app.freshping.io/org/16270/reports?check_id=56188",
       "duration": 45,
       "tabReloadIntervalSeconds": 50
     },
