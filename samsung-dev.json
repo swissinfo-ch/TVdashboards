@@ -1,0 +1,33 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": true,
+  "websites": [
+    {
+      "url": "http://swis-moni.txt.sri.ch/acptxt/check_mk/dashboard.py?name=TVscreen#",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 30
+    },
+    {
+      "url": "https://bamboo.silium.ch/currentActivity.action",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 20
+    },
+    {
+      "url": "https://bamboo.silium.ch/telemetry.action?filter=favourites",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 20
+    },
+    {
+      "url": "https://stash.silium.ch/projects/CM/repos/dxp-blueprint/pull-requests",
+      "duration": 45,
+      "tabReloadIntervalSeconds": 50
+    },
+    {
+      "url": "https://sonar.silium.ch/project/issues?assignees=FechneNi%2CPoppJa%2Cakachiwa%2Cbluniefr%2Cfankhaol%2Cfasnacro%2Cdevaprgi%2Cgirethde&id=ch.swissinfo.cm9%3Ablueprint%3Adevelop&resolved=false&severities=MAJOR",
+      "duration": 45,
+      "tabReloadIntervalSeconds": 50
+    }
+  ]
+}
