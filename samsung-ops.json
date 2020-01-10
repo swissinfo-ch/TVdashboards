@@ -6,7 +6,7 @@
   "websites": [
     {
       "url": "http://swis-moni.txt.sri.ch/prod/check_mk/dashboard.py?name=TVscreen#",
-      "duration": 45,
+      "duration": 20,
       "tabReloadIntervalSeconds": 50
     },
     {
