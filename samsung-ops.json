@@ -10,39 +10,8 @@
       "tabReloadIntervalSeconds": 50
     },
     {
-      "url": "https://updown.io/checks",
-      "duration": 45,
-      "tabReloadIntervalSeconds": 50
-    },
-    {
-      "url": "https://updown.io/bcrx",
-      "duration": 45,
-      "tabReloadIntervalSeconds": 50
-    },
-    {
-      "url": "https://updown.io/ndgx",
-      "duration": 45,
-      "tabReloadIntervalSeconds": 50
-    },
-    {
-      "url": "https://updown.io/aetx",
-      "duration": 45,
-      "tabReloadIntervalSeconds": 50
-    },
-    {
-      "url": "https://updown.io/eucm",
-      "duration": 45,
-      "tabReloadIntervalSeconds": 50
-    },
-    {
-      "url": "https://updown.io/j4da",
-      "duration": 45,
-      "tabReloadIntervalSeconds": 50
-    },
-    {
       "url": "https://mpulse.soasta.com/concerto/Central",
       "duration": 120,
-      "tabReloadIntervalSeconds": 50
-    }
+      }
   ]
 }
