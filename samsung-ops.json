@@ -7,7 +7,7 @@
     {
       "url": "http://moni.prod.sri.ch/grafana/d/cms-prod-overview/cms-prod-overview-1?orgId=1&kiosk&autofitpanels&refresh=30s",
       "duration": 120,
-      "tabReloadIntervalSeconds": 50
+      "tabReloadIntervalSeconds": 120
     },
     {
       "url": "https://mpulse.soasta.com/concerto/Central",
