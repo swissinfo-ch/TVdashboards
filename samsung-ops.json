@@ -11,7 +11,8 @@
     },
     {
       "url": "https://mpulse.soasta.com/concerto/Central",
-      "duration": 120
+      "duration": 120,
+      "tabReloadIntervalSeconds": 0
       }
   ]
 }
