@@ -5,8 +5,8 @@
   "lazyLoadTabs": true,
   "websites": [
     {
-      "url": "http://swis-moni.txt.sri.ch/prod/check_mk/dashboard.py?name=TVscreen#",
-      "duration": 20,
+      "url": "http://moni.prod.sri.ch/grafana/d/cms-prod-overview/cms-prod-overview-1?orgId=1&kiosk&autofitpanels&refresh=30s",
+      "duration": 120,
       "tabReloadIntervalSeconds": 50
     },
     {
